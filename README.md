@@ -1,0 +1,1 @@
+# EnergyScore-static-assets
